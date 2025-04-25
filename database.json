@@ -1,0 +1,11 @@
+{
+  "dev": {
+      "driver": "pg",
+      "connectionString": {
+          "ENV": "DATABASE_URL"
+      },
+      "schema": "public",
+      "log": "warn" 
+  },
+  "sql-file" : true
+}

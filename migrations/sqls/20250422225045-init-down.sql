@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS addresses;
+DROP TYPE IF EXISTS user_status;
+DROP TYPE IF EXISTS user_role;
